@@ -1,2 +1,3 @@
 # random_Habr_article
-simple script that opens random articles from github
+simple script that opens random articles from habr
+
